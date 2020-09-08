@@ -1,0 +1,14 @@
+name: WordPre
+title: WordPre
+username:
+account: babitad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2766272
+bundleId: 3603633
+url: https://babitad.shinyapps.io/WordPre/
+when: 1599511247.46892
+lastSyncTime: 1599511247.46892
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: CapstonePredictionModel.r
